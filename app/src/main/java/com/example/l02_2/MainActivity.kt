@@ -82,7 +82,7 @@ class MainActivity : AppCompatActivity() {
                 runGeoLoc(text)
             }
             R.id.button_other_app -> {
-                val myAction = "pwr.ampa.exercise02.intent.action.MY_ACTION_NAME"
+                val myAction = "my.custom.intent.action.WITH_ACTION_NAME"
                 val myIntent = Intent(myAction)
                 startActivity(myIntent)
             }
