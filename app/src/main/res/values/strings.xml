@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">L02_2</string>
+    <string name="button_other_app">First App</string>
+    <string name="button_finish">Finish</string>
+    <string name="button_dial">Dial</string>
+    <string name="button_geoloc">GeoLoc</string>
+    <string name="text_dial_hint">+48 794 707 958</string>
+    <string name="text_geoloc_hint">Wrocław</string>
+</resources>
